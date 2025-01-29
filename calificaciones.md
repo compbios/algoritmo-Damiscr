@@ -1,15 +1,15 @@
 Algoritmo Calcular_Promedio_Curso_Estudiante
 	
-	Escribir "Calificacion parcial 1:"
+	Escribir "Ingresar calificacion parcial 1:"
 	leer p1
 	
-	Escribir "Calificacion parcial 2:"
+	Escribir "Ingresar calificacion parcial 2:"
 	leer p2
 	
-	Escribir "Calificacion participacion:"
+	Escribir "Ingresar calificacion participacion:"
 	leer p3
 	
-	Escribir "Calificacion examen final:"
+	Escribir "Ingresar calificacion examen final:"
 	leer p4
 	
 	promedio <- (p1 * 0.25) + (p2 * 0.25) + (p3 * 0.20) + (p4 * 0.30)
